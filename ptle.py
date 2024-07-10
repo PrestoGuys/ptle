@@ -1,2 +1,2 @@
-print("Hello, World!")
-print("This is a test!")
+from assets import main
+main.main()
